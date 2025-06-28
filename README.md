@@ -68,7 +68,7 @@
 > **External validation (BCG consultants):**  
 > “Overall, very strong submission… unique slide design with clear structure of the challenge—well done.”  
 > “You clearly considered the user-experience (UX) of the developed dashboard—great!”  
-> “Excellent initiative in requesting write-access in Snowflake to build the Streamlit dashboard—shows ownership and problem-solving.”
+> “Excellent initiative in requesting write-access in Snowflake to build the real-time automated dashboard—shows ownership and problem-solving.”
 
 **My role**
 
