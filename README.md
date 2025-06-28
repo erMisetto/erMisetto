@@ -6,8 +6,8 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
 <h1 align="center">Hi, I’m <strong>MATTIA BIANCHI (erMisetto)!</strong> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&label=Profile+views" alt="Profile views"> &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social" alt="GitHub followers"> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=erMisettoE&style=flat-square&label=Profile+views" alt="Profile views"> &nbsp;
+  <img src="https://img.shields.io/github/followers/erMIisetto?style=social" alt="GitHub followers"> &nbsp;
   <img src="https://img.shields.io/badge/Analyst-%F0%9F%93%8C-blueviolet?logo=data" alt="Analyst badge">
 </p>
 
@@ -61,15 +61,15 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide=jupyter%20notebook" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erMisetto&layout=compact&hide=jupyter%20notebook" alt="Top languages">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=erMisetto&show_icons=true&count_private=true" alt="GitHub stats">
 </p>
 
 ---
 
 ### 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bianchi-mattia/)  
 ✉️ **YOUR_EMAIL@domain.com**
 
 ---
