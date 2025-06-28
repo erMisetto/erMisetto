@@ -51,7 +51,7 @@
   </a>
   &nbsp;
   <!-- Button → GitHub repo -->
-  <a href="https://github.com/erMisetto/dbt-analysis">
+  <a href="https://github.com/erMisetto/dbt-analysis](https://ermisetto.github.io/dbt-analysis/#!/overview/fair_pricing_radar)">
     <img src="https://img.shields.io/badge/VIEW&nbsp;CODE-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
          alt="dbt-analysis repository on GitHub" />
   </a>
