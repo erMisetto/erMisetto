@@ -52,7 +52,9 @@
     <img src="https://img.shields.io/badge/VIEW&nbsp;CODE-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
          alt="dbt-analysis repository on GitHub" />
   </a>
+  
 </div>
+
 > **External validation (BCG consultants):**  
 > “Overall, very strong submission… unique slide design with clear structure of the challenge—well done.”  
 > “You clearly considered the user-experience (UX) of the developed Streamlit dashboard—great!”  
@@ -62,8 +64,9 @@
 
 * Architected a **Snowflake + dbt** warehouse fed every minute by global ticketing data.  
 * Implemented **data-quality contracts** (Great Expectations) covering 80 + fields.  
-* Built Tableau & Streamlit front-ends; scored write-access to Snowflake to deliver end-to-end demo.  
-* Presented insights to BCG partners and regulators; workflows now in pilot production.  
+* Built Tableau & Streamlit front-ends; secured write-access to Snowflake to deliver an end-to-end demo.  
+* Presented insights to BCG partners and regulators; workflows now in pilot production.
+
 
 ---
 
