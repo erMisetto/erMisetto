@@ -10,7 +10,15 @@
 ### 🚀 About Me
 - ✈️ **Data & Analytics Consultant** focused on turning messy data into regulatory insights  
 - 🎓 MSc, Business Analytics — Hult International Business School  
-- 📊 Favorite tools: **SQL • Python • R • JavaScript • dbt • Snowflake • Tableau • Figma**
+- 📊 Favorite tools  
+![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white&style=flat-square)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat-square)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 - 🚀 Building **[MIP Technologies](https://www.miptechnologies.tech/)** — a London-based startup turning enterprise AI & intelligent-automation ideas into production solutions
 - 🗺️ Currently exploring **graph analytics** + **spatial SQL**
 
