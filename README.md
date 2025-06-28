@@ -58,15 +58,6 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erMisetto&layout=compact&hide=jupyter%20notebook" alt="Top languages">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=erMisetto&show_icons=true&count_private=true" alt="GitHub stats">
-</p>
-
----
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bianchi-mattia/)  
