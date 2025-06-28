@@ -11,7 +11,8 @@
 ### 🚀 About Me
 - ✈️ **Data & Analytics Consultant** focused on turning messy data into regulatory insights  
 - 🎓 MSc, Business Analytics — Hult International Business School  
-- 📊 Favorite tools: **SQL • Python • R • JavaScript • Node.js • dbt • Snowflake • Tableau • Figma**  
+- 📊 Favorite tools: **SQL • Python • R • JavaScript • Node.js • dbt • Snowflake • Tableau • Figma**
+- 🚀 Building **[MIP Technologies](https://www.miptechnologies.tech/)** — a London-based startup turning enterprise AI & intelligent-automation ideas into production solutions
 - 🗺️ Currently exploring **graph analytics** + **spatial SQL**
 
 ---
@@ -27,14 +28,14 @@
 
 <div align="center">
 
-  <!-- Tableau logo (visual only) -->
+  <!-- Tableau logo -->
   <img src="https://img.icons8.com/color/96/tableau-software.png"
-       width="90"
+       width="80"
        alt="Tableau logo" />
 
-  <br><br>
+  <br/>
 
-  <!-- Button → Tableau dashboard -->
+  <!-- Button → interactive dashboard -->
   <a href="https://public.tableau.com/app/profile/mattia.bianchi1534/viz/USAviationPricingDashboard-IdentifyingUnfairPricingStrategies/Overview">
     <img src="https://img.shields.io/badge/OPEN&nbsp;DASHBOARD-Tableau&nbsp;Public-E97627?logo=tableau&logoColor=white&style=for-the-badge"
          alt="Open interactive Tableau dashboard" />
