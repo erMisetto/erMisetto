@@ -18,7 +18,9 @@
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white&style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
-- 🚀 Building **[MIP Technologies](https://www.miptechnologies.tech/)** — a London-based startup turning enterprise AI & intelligent-automation ideas into production solutions
+- 🚀 <a href="https://www.miptechnologies.tech/" title="Visit MIP Technologies">
+      <img src="https://raw.githubusercontent.com/erMisetto/erMisetto/main/assets/MIPs_cute.png" height="24" alt="MIP Technologies logo" />
+    </a> **[MIP Technologies](https://www.miptechnologies.tech/)** — London-based startup delivering production-ready enterprise-AI & intelligent-automation solutions
 - 🗺️ Currently exploring **graph analytics** + **spatial SQL**
 
 ---
