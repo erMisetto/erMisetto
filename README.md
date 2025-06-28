@@ -25,13 +25,12 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
 
 | Metric | Impact |
 |--------|--------|
-| **82.1 M** bookings parsed | Global coverage across 400+ airlines |
+| **82.1 M** bookings parsed | Global coverage across 400 + airlines |
 | **7.2 M** suspected breaches | Indicates &gt; \$1 B consumer harm |
 | **35 %** faster pipelines | dbt incremental models & SQL refactors |
 | **&lt; 5 s** dashboard filter time | Real-time enforcement by regulators |
 
 <div align="center">
-  <!-- Tableau Public auto-generates a PNG when :format=png is appended -->
   <a href="https://public.tableau.com/app/profile/mattia.bianchi1534/viz/USAviationPricingDashboard-IdentifyingUnfairPricingStrategies/Overview">
     <img
       src="https://public.tableau.com/views/USAviationPricingDashboard-IdentifyingUnfairPricingStrategies/Overview.png?:showVizHome=no&:format=png"
@@ -40,13 +39,29 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
   </a>
 </div>
 
-> *“A textbook example of data engineering meeting public-policy impact.”* — Boston Consulting Group consultant
+<details>
+<summary>🗣️  What BCG consultants said (tap to expand)</summary>
 
-**Key highlights**
-- Built a **Snowflake + dbt** model ingesting GDS tickets hourly  
-- Enforced **data-quality contracts** (Great Expectations) to protect 80+ upstream fields  
-- Surfaced curated marts via **Tableau** & **Streamlit** for investigators  
-- Presented findings live to BCG partners & regulators; workflows now in pilot production  
+> **“Overall, very strong submission… unique slide design with clear structure of the challenge—well done.”**  
+> **“You clearly considered the user-experience (UX) of the developed Streamlit dashboard—great!”**  
+> **“Excellent initiative in requesting write-access in Snowflake to build the Streamlit dashboard—shows ownership and problem-solving.”**
+
+**Constructive next steps**
+
+1. Sharpen the **intervention strategy**: spell out which actions regulators take based on each insight.  
+2. Clarify dashboard usage:  
+   * Which stakeholders make what decisions?  
+   * How should users interpret daily alert trends and longitudinal tracking?  
+3. Polish slide wording (e.g., explain “&gt; 100 flights” filter, refine legend labels).
+
+</details>
+
+**My role**
+
+* Architected a **Snowflake + dbt** warehouse fed hourly by global ticketing data.  
+* Implemented **data-quality contracts** (Great Expectations) covering 80 + fields.  
+* Built Tableau & Streamlit front-ends; scored write-access to Snowflake to deliver end-to-end demo.  
+* Presented insights to BCG partners and regulators; workflows now in pilot production.  
 
 ---
 
