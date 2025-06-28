@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erMisettoE&style=flat-square&label=Profile+views" alt="Profile views"> &nbsp;
-  <img src="https://img.shields.io/github/followers/erMIisetto?style=social" alt="GitHub followers"> &nbsp;
   <img src="https://img.shields.io/badge/Analyst-%F0%9F%93%8C-blueviolet?logo=data" alt="Analyst badge">
 </p>
 
