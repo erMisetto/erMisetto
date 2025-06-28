@@ -39,22 +39,10 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
   </a>
 </div>
 
-<details>
-<summary>🗣️  What BCG consultants said (tap to expand)</summary>
-
-> **“Overall, very strong submission… unique slide design with clear structure of the challenge—well done.”**  
-> **“You clearly considered the user-experience (UX) of the developed Streamlit dashboard—great!”**  
-> **“Excellent initiative in requesting write-access in Snowflake to build the Streamlit dashboard—shows ownership and problem-solving.”**
-
-**Constructive next steps**
-
-1. Sharpen the **intervention strategy**: spell out which actions regulators take based on each insight.  
-2. Clarify dashboard usage:  
-   * Which stakeholders make what decisions?  
-   * How should users interpret daily alert trends and longitudinal tracking?  
-3. Polish slide wording (e.g., explain “&gt; 100 flights” filter, refine legend labels).
-
-</details>
+> **External validation (BCG consultants):**  
+> “Overall, very strong submission… unique slide design with clear structure of the challenge—well done.”  
+> “You clearly considered the user-experience (UX) of the developed Streamlit dashboard—great!”  
+> “Excellent initiative in requesting write-access in Snowflake to build the Streamlit dashboard—shows ownership and problem-solving.”
 
 **My role**
 
