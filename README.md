@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 📊 **Data & Analytics Consultant** — turning messy data into actionable, insight-driven business decisions
 - 🎓 MSc, Business Analytics — Hult International Business School  
-- 📊 Favorite tools:  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+- 📊 Favorite tools —  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -21,7 +21,7 @@
 - 🚀 Building <a href="https://www.miptechnologies.tech/" title="Visit MIP Technologies">
       <img src="https://raw.githubusercontent.com/erMisetto/erMisetto/main/assets/MIPS_cut.png" height="24" alt="MIP Technologies logo" />
     </a> **[Technologies](https://www.miptechnologies.tech/)** — London-based startup delivering production-ready enterprise-AI & intelligent-automation solutions
-- 🗺️ Currently exploring **graph analytics** + **spatial SQL**
+- 🗺️ Currently exploring — **graph analytics** + **spatial SQL**
 
 ---
 
