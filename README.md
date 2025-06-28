@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/VIEW&nbsp;CODE-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
          alt="dbt-analysis repository on GitHub" />
   </a>
-
 </div>
 > **External validation (BCG consultants):**  
 > “Overall, very strong submission… unique slide design with clear structure of the challenge—well done.”  
