@@ -23,9 +23,8 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/erMisetto/erMisetto/main/assets/BCG_MONOGRAM.png"
-       height="22"
-       alt="BCG logo"> Flagship Project – BCG × Hult Aviation Pricing Enforcement Control Tower
+## <img src="https://raw.githubusercontent.com/erMisetto/erMisetto/main/assets/BCG_MONOGRAM.png" height="22" alt="BCG logo"> Flagship Project – BCG × Hult Aviation Pricing Enforcement Control Tower
+
 
 | Metric | Impact |
 |--------|--------|
