@@ -50,11 +50,18 @@
          alt="Open interactive Tableau dashboard" />
   </a>
   &nbsp;
-  <!-- Button → GitHub repo -->
-  <a href="https://github.com/erMisetto/dbt-analysis](https://ermisetto.github.io/dbt-analysis/#!/overview/fair_pricing_radar)">
-    <img src="https://img.shields.io/badge/VIEW&nbsp;CODE-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
-         alt="dbt-analysis repository on GitHub" />
+  <!-- Button → dbt docs (GitHub Pages) -->
+  <a href="https://ermisetto.github.io/dbt-analysis/#!/overview/fair_pricing_radar" title="Open live dbt docs">
+    <img src="https://img.shields.io/badge/LIVE&nbsp;DBT&nbsp;DOCS-fair_pricing_radar-FF694B?logo=dbt&logoColor=white&style=for-the-badge"
+         alt="Open live dbt docs"/>
   </a>
+  &nbsp;
+  <!-- Optional: button → GitHub repo -->
+  <a href="https://github.com/erMisetto/dbt-analysis" title="View source code">
+    <img src="https://img.shields.io/badge/VIEW&nbsp;CODE-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
+         alt="dbt-analysis repository on GitHub"/>
+  </a>
+
   
 </div>
 
