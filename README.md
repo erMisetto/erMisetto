@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- ✈️ **Data & Analytics Consultant** focused on turning messy data into regulatory insights  
+- ✈️ **Data & Analytics Consultant** focused on turning messy data into insightful data-driven strategic business insights and decision-making
 - 🎓 MSc, Business Analytics — Hult International Business School  
 - 📊 Favorite tools:  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
