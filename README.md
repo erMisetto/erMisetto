@@ -1,8 +1,3 @@
-<!-- ░░ Optional banner ░░
-Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
-<p align="center"><img src="BANNER_IMAGE_URL" width="100%" alt="banner"></p>
--->
-
 <h1 align="center">Hi, I’m <strong>MATTIA BIANCHI (erMisetto)!</strong> 👋</h1>
 
 <p align="center">
@@ -31,12 +26,21 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
 | **&lt; 5 s** dashboard filter time | Real-time enforcement by regulators |
 
 <div align="center">
+
+  <!-- Tableau logo → opens the interactive dashboard -->
   <a href="https://public.tableau.com/app/profile/mattia.bianchi1534/viz/USAviationPricingDashboard-IdentifyingUnfairPricingStrategies/Overview">
-    <img
-      src="https://public.tableau.com/views/USAviationPricingDashboard-IdentifyingUnfairPricingStrategies/Overview.png?:showVizHome=no&:format=png"
-      width="700"
-      alt="US Aviation Pricing Dashboard – click to open the interactive Tableau version" />
+    <img src="https://img.icons8.com/color/96/tableau-software.png"
+         width="90"
+         alt="Open the interactive Tableau dashboard"/>
   </a>
+  &nbsp;&nbsp;
+
+  <!-- GitHub repo badge → opens the project code -->
+  <a href="https://github.com/erMisetto/dbt-analysis">
+    <img src="https://img.shields.io/badge/View&nbsp;Code-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
+         alt="dbt-analysis repository on GitHub"/>
+  </a>
+
 </div>
 
 > **External validation (BCG consultants):**  
@@ -46,7 +50,7 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
 
 **My role**
 
-* Architected a **Snowflake + dbt** warehouse fed hourly by global ticketing data.  
+* Architected a **Snowflake + dbt** warehouse fed every minute by global ticketing data.  
 * Implemented **data-quality contracts** (Great Expectations) covering 80 + fields.  
 * Built Tableau & Streamlit front-ends; scored write-access to Snowflake to deliver end-to-end demo.  
 * Presented insights to BCG partners and regulators; workflows now in pilot production.  
