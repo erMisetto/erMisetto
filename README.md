@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - ✈️ **Data & Analytics Consultant** focused on turning messy data into regulatory insights  
 - 🎓 MSc, Business Analytics — Hult International Business School  
-- 📊 Favorite tools: **SQL • Python • R • JavaScript • Node.js • dbt • Snowflake • Tableau • Figma**
+- 📊 Favorite tools: **SQL • Python • R • JavaScript • dbt • Snowflake • Tableau • Figma**
 - 🚀 Building **[MIP Technologies](https://www.miptechnologies.tech/)** — a London-based startup turning enterprise AI & intelligent-automation ideas into production solutions
 - 🗺️ Currently exploring **graph analytics** + **spatial SQL**
 
