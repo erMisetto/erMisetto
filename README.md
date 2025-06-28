@@ -76,7 +76,7 @@ Uncomment the next line and replace BANNER_IMAGE_URL with any hosted image
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bianchi-mattia/)  
-✉️ **YOUR_EMAIL@domain.com**
+✉️ **mattiabianchi.work@gmail.com**
 
 ---
 
