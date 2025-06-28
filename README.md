@@ -27,22 +27,26 @@
 
 <div align="center">
 
-  <!-- Tableau logo → opens the interactive dashboard -->
-  <a href="https://public.tableau.com/app/profile/mattia.bianchi1534/viz/USAviationPricingDashboard-IdentifyingUnfairPricingStrategies/Overview">
-    <img src="https://img.icons8.com/color/96/tableau-software.png"
-         width="90"
-         alt="Open the interactive Tableau dashboard"/>
-  </a>
-  &nbsp;&nbsp;
+  <!-- Tableau logo (visual only) -->
+  <img src="https://img.icons8.com/color/96/tableau-software.png"
+       width="90"
+       alt="Tableau logo" />
 
-  <!-- GitHub repo badge → opens the project code -->
+  <br><br>
+
+  <!-- Button → Tableau dashboard -->
+  <a href="https://public.tableau.com/app/profile/mattia.bianchi1534/viz/USAviationPricingDashboard-IdentifyingUnfairPricingStrategies/Overview">
+    <img src="https://img.shields.io/badge/OPEN&nbsp;DASHBOARD-Tableau&nbsp;Public-E97627?logo=tableau&logoColor=white&style=for-the-badge"
+         alt="Open interactive Tableau dashboard" />
+  </a>
+  &nbsp;
+  <!-- Button → GitHub repo -->
   <a href="https://github.com/erMisetto/dbt-analysis">
-    <img src="https://img.shields.io/badge/View&nbsp;Code-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
-         alt="dbt-analysis repository on GitHub"/>
+    <img src="https://img.shields.io/badge/VIEW&nbsp;CODE-db&nbsp;analysis-181717?logo=github&logoColor=white&style=for-the-badge"
+         alt="dbt-analysis repository on GitHub" />
   </a>
 
 </div>
-
 > **External validation (BCG consultants):**  
 > “Overall, very strong submission… unique slide design with clear structure of the challenge—well done.”  
 > “You clearly considered the user-experience (UX) of the developed Streamlit dashboard—great!”  
