@@ -32,7 +32,7 @@
 |--------|--------|
 | **82.1 M** bookings parsed | Global coverage across 400 + airlines |
 | **7.2 M** suspected breaches | Indicates &gt; \$1 B consumer harm |
-| **35 %** faster pipelines | dbt incremental models & SQL refactors |
+| Implemented **real-time automated** data reporting and data workflow pipeline | dbt incremental models & SQL refactors |
 | **&lt; 5 s** dashboard filter time | Real-time enforcement by regulators |
 
 <div align="center">
