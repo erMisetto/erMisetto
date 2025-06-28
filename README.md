@@ -23,7 +23,7 @@
 
 ---
 
-## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Boston_Consulting_Group_logo.svg/100px-Boston_Consulting_Group_logo.svg.png" width="26" alt="BCG logo" /> Flagship Project – BCG × Hult Aviation Pricing Enforcement Control Tower
+## <img src="https://raw.githubusercontent.com/<erMisetto>/<erMisetto>/main/assets/bcg.png" width="26" alt="BCG logo"> Flagship Project – BCG × Hult Aviation Pricing Enforcement Control Tower
 
 | Metric | Impact |
 |--------|--------|
