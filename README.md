@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m <strong>MATTIA BIANCHI (erMisetto)!</strong> 👋</h1>
+<h1 align="center">Hi, I’m <strong>MATTIA BIANCHI!</strong> 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erMisettoE&style=flat-square&label=Profile+views" alt="Profile views"> &nbsp;
