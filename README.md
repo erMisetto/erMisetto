@@ -51,7 +51,7 @@
   </a>
   &nbsp;
   <!-- Button → dbt docs (GitHub Pages) -->
-  <a href="https://ermisetto.github.io/dbt-analysis/#!/overview/fair_pricing_radar" title="Open live dbt docs">
+  <a href="https://ermisetto.github.io/bcg-airlines-dbt-analysis/#!/overview" title="Open live dbt docs">
     <img src="https://img.shields.io/badge/LIVE&nbsp;DBT&nbsp;DOCS-fair_pricing_radar-FF694B?logo=dbt&logoColor=white&style=for-the-badge"
          alt="Open live dbt docs"/>
   </a>
