@@ -2,7 +2,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=erMisettoE&style=flat-square&label=Profile+views" alt="Profile views"> &nbsp;
-  <img src="https://img.shields.io/badge/Analyst-%F0%9F%93%8C-blueviolet?logo=data" alt="Analyst badge">
+  <img src="https://img.shields.io/badge/Analyst-%F0%9F%93%8C-blueviolet?logo=data&style=flat-square" alt="Analyst badge"> &nbsp;
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%F0%9F%A4%96-412991?logo=openai&logoColor=white&style=flat-square" alt="Artificial Intelligence badge"> &nbsp;
+  <img src="https://img.shields.io/badge/Data-%F0%9F%93%88-0A66C2?logo=postgresql&logoColor=white&style=flat-square" alt="Data badge">
 </p>
 
 ---
@@ -19,9 +21,22 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 - 🚀 Building <a href="https://www.miptechnologies.tech/" title="Visit MIP Technologies">
-      <img src="https://raw.githubusercontent.com/erMisetto/erMisetto/main/assets/MIPS_cut.png" height="24" alt="MIP Technologies logo" />
-    </a> **[Technologies](https://www.miptechnologies.tech/)** — London-based startup delivering production-ready enterprise-AI & intelligent-automation solutions
+      <img src="assets/BlockMIP%20F.png" height="17" alt="MIP Technologies logo" />&nbsp;
+  **[MIP Technologies Ltd.](https://www.miptechnologies.tech/)** — London-based startup delivering production-ready enterprise-AI & intelligent-automation solutions
 - 🗺️ Currently exploring — **graph analytics** + **spatial SQL**
+
+---
+
+### 🧠 What I Do
+
+- <img src="assets/BlockMIP%20F.png" height="17" alt="MIP Technologies logo" />&nbsp;
+  **[MIP Technologies Ltd.](https://www.miptechnologies.tech/)** — *Co-founder* (London, since **May 2025**)  
+  We build tailor-made AI systems for businesses — from fine-tuned LLMs to smart API integrations and end-to-end software optimization.
+
+- <img src="assets/logo%20albatrove2.png" height="22" alt="Albatrove logo" />&nbsp;
+  **Albatrove** — *Founded in **2023***  
+  The first fully automated AI Travel Planner, reinventing trip planning with intelligent orchestration and dynamic user interaction.
+
 
 ---
 
@@ -86,7 +101,6 @@
 |------------------------|----------------|----------------------|---------------------|
 | ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | ![Pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) | ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white) ![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![SES](https://img.shields.io/badge/-Amazon%20SES-232F3E?logo=amazonaws&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white) |
 ---
-
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bianchi-mattia/)  
