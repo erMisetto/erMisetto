@@ -90,7 +90,7 @@
 
 ### 🤝 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/bianchi-mattia/)  
-✉️ **mattiak@albatrove.com**
+✉️ **mattia@albatrove.com**
 
 ---
 
