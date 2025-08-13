@@ -34,7 +34,7 @@
   We build tailor-made AI systems for businesses — from fine-tuned LLMs to smart API integrations and end-to-end software optimization.
 
 - <img src="assets/logo%20albatrove2.png" height="22" alt="Albatrove logo" />&nbsp;
-  **Albatrove** — *Founded in **2023***  
+  **[Albatrove](https://www.albatrove.com/)** — *Founded in **2023***  
   The first fully automated AI Travel Planner, reinventing trip planning with intelligent orchestration and dynamic user interaction.
 
 
