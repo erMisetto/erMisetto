@@ -1,6 +1,6 @@
 # Mattia Bianchi
 
-Building AI systems useful for business at <img src="assets/BlockMIP%20F.png" height="16" alt="MIP Technologies" /> **[MIP Technologies](https://www.miptechnologies.tech/)**.
+Building AI systems useful for business at <img src="assets/MIP.png" height="16" alt="MIP Technologies" /> **[MIP Technologies](https://www.miptechnologies.tech/)**.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
